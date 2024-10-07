@@ -19,7 +19,8 @@ L’obiettivo del progetto è sviluppare un’applicazione che gestisca tutti gl
 ## Tecnologie Utilizzate
 - MySQL
 - IntelliJ IDEA
-- Java
+- Java(JDBC)
+- Draw.io
 
 ## Processo di Svolgimento
 Il progetto è stato realizzato in più fasi, partendo dall’analisi dei requisiti e dallo schema ER, fino alla creazione del database e dell’applicazione. Sono stati definiti i volumi di dati, le operazioni principali e sono state prese decisioni progettuali per ottimizzare la gestione delle entità e delle relazioni. L’implementazione finale include il controllo dei vincoli, delle regole di derivazione e la gestione dei finanziamenti.
