@@ -5,7 +5,9 @@
 - Aniello Giamundo
 
 ## Docenti
-- Nome dei docenti
+- Giuseppe Polese
+- Loredana Caruccio
+- Bernardo Breve
 
 ## Traccia del Progetto
 L’obiettivo del progetto è sviluppare un’applicazione che gestisca tutti gli aspetti di un campionato mondiale di automobili, inclusi circuiti, gare, scuderie, vetture, piloti e i loro risultati. Le principali operazioni comprendono:
